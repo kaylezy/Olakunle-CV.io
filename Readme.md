@@ -1,5 +1,5 @@
 
-This is my Resume
+MY README 
 
 Also find my post on twitter here https://twitter.com/iam_kaylezy/status/1165399495913496577?s=19
 
