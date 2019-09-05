@@ -52,3 +52,7 @@ h2{
 #PS{
     line-height: 30px;
 }
+
+@media screen and (max-width: 500px) {
+    body{ width: 100%;}
+}
